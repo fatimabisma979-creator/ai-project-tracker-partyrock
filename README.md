@@ -53,4 +53,4 @@ The core intelligence of this application lies in its prompt structuring. The un
 
 ## 👤 Author
 * **Bisma Fatima** - Computer Science Student 
-* **Connect with me:** [LinkedIn](PASTE_YOUR_LINKEDIN_LINK_HERE) | [Portfolio/Email](PASTE_YOUR_EMAIL_OR_PORTFOLIO_LINK_HERE)
+* **Connect with me:** [www.linkedin.com/in/bisma-fatima-2b97b331a] | [fatimabisma979@gmail.com]
